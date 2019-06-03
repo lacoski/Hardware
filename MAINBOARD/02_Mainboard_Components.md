@@ -20,5 +20,28 @@
 
 | Tên **socket** | Hỗ trợ **CPU** | Đặc điểm |
 | ---------------|----------------|----------|
-| **Socket A** | AMD Athlon (`650 MHz – 1400 MHz`)<br>AMD Athlon XP (`1500+ – 3200+`)<br>AMD Duron (`600 MHz – 1800 MHz`)<br>AMD Sempron (`2000+ – 3300+`)<br>AMD Athlon MP (`1000 MHz – 3000+`)<br>AMD Geode NX (`667 MHz – 2200 MHz`) | - Có `462` lỗ chân tiếp xúc **CPU**<br>- Làm việc với bộ nhớ **DDR**<br>- Không còn được sản xuất |
-| **Socket 754** | AMD Athlon 64 (`2800+ - 3700+`)<br>AMD Sempron (`2500+ - 3400+`) <br>AMD Turion 64 (`ML and MT`) <br>AMD Mobile Athlon 64 (`2800+ - 4000+`) | - Có `939` lỗ chân<br>- Làm việc với bộ nhớ **DDR**
+| **Socket A** | AMD Athlon (`650 MHz – 1400 MHz`)<br>AMD Athlon XP (`1500+ – 3200+`)<br>AMD Duron (`600 MHz – 1800 MHz`)<br>AMD Sempron (`2000+ – 3300+`)<br>AMD Athlon MP (`1000 MHz – 3000+`)<br>AMD Geode NX (`667 MHz – 2200 MHz`) | - Có `462` lỗ chân tiếp xúc **CPU**<br>- Làm việc với bộ nhớ **DDR**<br>- Không còn được sản xuất<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_A) |
+| **Socket 754** | AMD Athlon 64 (`2800+ - 3700+`)<br>AMD Sempron (`2500+ - 3400+`) <br>AMD Turion 64 (`ML and MT`) <br>AMD Mobile Athlon 64 (`2800+ - 4000+`) | - Có `939` lỗ chân<br>- Làm việc với bộ nhớ **DDR**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_754) |
+| **Socket 939** | AMD Athlon 64 (3000+ - 4000+)<br>AMD Athlon 64 FX (51 - 60)<br>AMD Athlon 64 X2 (3600+ - 4800+)<br>Some AMD Opteron 1xx series <br>Some Sempron 3x00+ (Step E3, E6) | - Ra đời năm `2004`<br>- Có `939` lỗ chân<br>- Làm việc với bộ nhớ **DDR**<br>- Không còn được sản xuất<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_939) |
+| **Socket 940** | AMD Athlon 64 FX<br>AMD Opteron | - Có `940` lỗ chân<br>- Làm việc với bộ nhớ **DDR**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_940) |
+| **Socket AM1** | mobile APU products Jaguar- and Puma-based (Athlon- and Sempron-SoCs) | - Ra đời năm `2014`<br>- Có `721` lỗ chân<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_AM1) |
+| **Socket AM2** | Athlon 64<br>Athlon 64 X2<br>Athlon 64 FX<br>Opteron<br>Sempron<br>Phenom | - Ra đời năm `2006`<br>- Có `940` lỗ chân<br>- Làm việc với bộ nhớ **DDR2**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_AM2) |
+| **Socket AM2+** | Athlon 64<br>Athlon 64 X2<br>Athlon II<br>Opteron<br>Phenom<br>Phenom II | - Có `940` lỗ chân<br>- Làm việc với bộ nhớ **DDR2**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_AM2%2B) |
+| **Socket AM3** | Phenom II<br>Athlon II<br>Sempron<br>Opteron 1380 Series | - Ra đời năm `2009`<br>- Có `938` lỗ chân<br>- Làm việc với bộ nhớ **DDR3**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_AM3) |
+| **Socket AM3+** | Phenom II<br>Athlon II<br>FX<br>Opteron 3000 Series | - Ra đời năm `2011`<br>- Có `938` lỗ chân<br>- Làm việc với bộ nhớ **DDR3**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_AM3%2B) |
+| **Socket FM1** | early A-series APUs | - Ra đời năm `2011`<br>- Có `905` lỗ chân<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_FM1) |
+| **Socket FM2** | | - Ra đời năm `2012`<br>- Có `904` lỗ chân<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_FM2) |
+| **Socket FM2+** | | - Có `906` lỗ chân<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_FM2%2B) |
+| **Socket AM4** | - Excavator:<br>+ Bristol Ridge<br>- Ryzen:<br>+ Summit Ridge<br>+ Raven Ridge<br>+ Pinnacle Ridge<br>- Athlon | - Ra đời năm `2016`<br>- Có `1331` lỗ chân<br>- Làm việc với bộ nhớ **DDR4**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_AM4) |
+| **Socket TR4<br>( Threadripper 4 )** | - Ryzen Threadripper:<br>+ Whitehaven<br>+ Colfax | - Ra đời năm `2017`<br>- Có `4094` lỗ chân<br>- Làm việc với bộ nhớ **DDR4**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_TR4)
+## **2) Chipset ( North Bridge + South Bridge )**
+- **Chipset** là tập hợp các chip ( vi mạch ) điều khiển bộ nhớ , bus trên mainboard và một số thiết bị ngoại vi .
+- Một số nhà sản xuất mainboard như **Intel** và **AMD** sử dụng **chipset** riêng của họ . Các nhà sản xuất khác sử dụng **chipset** cho các hãng khác sản xuất . Các hãng sản xuất **chipset** lớn là **Intel** , **AMD** , **NVIDIA** , **SiS** .
+- Bắt đầu từ loạt **chipset Intel i800** , một hub ( trục ) được sử dụng để kết nối tới các bus . Tất cả các bus I/O được kết nối với 1 hub . Hub này có kế nối tới system bus . Hub này được gọi là ***hub interface*** và kiến trúc này được gọi là kiến trúc ***hub gia tốc ( accelerated hub architecture )*** .
+- Đầu nhanh của hub , có chứa bus điều khiển đồ họa và bộ nhớ , kết nối tới system bus , được gọi là **North Bridge** .
+- Đầu chậm hơn của hub , được gọi là **South Bridge** có chứa bus I/O . Tất cả các thiết bị I/O , ngoại trừ màn hình và bộ nhớ , kết nối hub thông qua **South Bridge** .
+- Khe cắm **PCI Express** chính được thiết kế cho card video có quyền truy cập trực tiếp đến **North Bridge** , các **PCI Express** khác phải truy cập **CPU** qua **South Bridge** chậm hơn .
+- Hiện tại , phần lớn **mainboard** đã lược bỏ **North Bridge** , chỉ còn **South Bridge** do sự tiến bộ của **CPU** .
+### **2.1) Chipset Intel**
+
+| **Chipset** 
