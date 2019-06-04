@@ -1,10 +1,10 @@
-# Các thành phần trên Mainboard
-## **1) Socket CPU**
+
+# Socket CPU
 - **Socket CPU**  là đế cắm của các CPU trên **mainboard** .
 - **Socket** có nhiệm vụ làm điểm tiếp xúc và cũng là giá đỡ **CPU** khi gắn vào **mainboard** .
 - Tương thích với từng loại **mainboard** là các **socket** khác nhau , từ đó sẽ phù hợp với các loại **CPU** khác nhau .
 - 2 hãng sản xuất **CPU** lớn nhất là **Intel** và **AMD**
-### **1.1) Các **socket** của Intel** :
+## **1) Các **socket** của Intel** :
 
 | Tên **socket** | Hỗ trợ **CPU** | Đặc điểm |
 | ---------------|----------------|----------|
@@ -16,7 +16,7 @@
 | **LGA1150<br>( Socket H3 )** | Intel Core i3 , i5 , i7<br>( `4xxx` , `5xxx` series ) | - Ra đời năm `2013`<br>- Có `1150` chân tiếp xúc **CPU**<br>- Làm việc với bộ nhớ **DDR3**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/LGA_1150) |
 | **LGA1151<br>( Socket H4 )** | Intel Core i3 , i5 , i7<br>( `6xxx` , `7xxx` , `8xx` series ) | - Ra đời năm `2015`<br>- Có `1151` chân tiếp xúc **CPU**<br>- Làm việc với bộ nhớ **DDR3** , **DDR3L** , **DDR4**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/LGA_1151) |
 | **LGA2066<br>( Socket R4 )** | Intel Core i7 , i9<br>( `7xxxX` , `9xxxX` series )<br>Intel Xeon<br>( `W-2xxx` series ) | - Ra đời năm `2017`<br>- Có `2066` chân tiếp xúc **CPU**<br>- Làm việc với bộ nhớ **DDR4**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/LGA_2066)
-### **1.2) Các socket của AMD**
+## **2) Các socket của AMD**
 
 | Tên **socket** | Hỗ trợ **CPU** | Đặc điểm |
 | ---------------|----------------|----------|
@@ -34,14 +34,3 @@
 | **Socket FM2+** | | - Có `906` lỗ chân<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_FM2%2B) |
 | **Socket AM4** | - Excavator:<br>+ Bristol Ridge<br>- Ryzen:<br>+ Summit Ridge<br>+ Raven Ridge<br>+ Pinnacle Ridge<br>- Athlon | - Ra đời năm `2016`<br>- Có `1331` lỗ chân<br>- Làm việc với bộ nhớ **DDR4**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_AM4) |
 | **Socket TR4<br>( Threadripper 4 )** | - Ryzen Threadripper:<br>+ Whitehaven<br>+ Colfax | - Ra đời năm `2017`<br>- Có `4094` lỗ chân<br>- Làm việc với bộ nhớ **DDR4**<br>Tham khảo : [Wiki](https://en.wikipedia.org/wiki/Socket_TR4)
-## **2) Chipset ( North Bridge + South Bridge )**
-- **Chipset** là tập hợp các chip ( vi mạch ) điều khiển bộ nhớ , bus trên mainboard và một số thiết bị ngoại vi .
-- Một số nhà sản xuất mainboard như **Intel** và **AMD** sử dụng **chipset** riêng của họ . Các nhà sản xuất khác sử dụng **chipset** cho các hãng khác sản xuất . Các hãng sản xuất **chipset** lớn là **Intel** , **AMD** , **NVIDIA** , **SiS** .
-- Bắt đầu từ loạt **chipset Intel i800** , một hub ( trục ) được sử dụng để kết nối tới các bus . Tất cả các bus I/O được kết nối với 1 hub . Hub này có kế nối tới system bus . Hub này được gọi là ***hub interface*** và kiến trúc này được gọi là kiến trúc ***hub gia tốc ( accelerated hub architecture )*** .
-- Đầu nhanh của hub , có chứa bus điều khiển đồ họa và bộ nhớ , kết nối tới system bus , được gọi là **North Bridge** .
-- Đầu chậm hơn của hub , được gọi là **South Bridge** có chứa bus I/O . Tất cả các thiết bị I/O , ngoại trừ màn hình và bộ nhớ , kết nối hub thông qua **South Bridge** .
-- Khe cắm **PCI Express** chính được thiết kế cho card video có quyền truy cập trực tiếp đến **North Bridge** , các **PCI Express** khác phải truy cập **CPU** qua **South Bridge** chậm hơn .
-- Hiện tại , phần lớn **mainboard** đã lược bỏ **North Bridge** , chỉ còn **South Bridge** do sự tiến bộ của **CPU** .
-### **2.1) Chipset Intel**
-
-| **Chipset** 
