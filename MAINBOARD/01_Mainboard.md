@@ -18,4 +18,4 @@
     - **Chip BIOS** : Chứa đoạn chương trình CMOS SETUP, POST…
 ## **4) Các thành phần trên Mainboard**
 
-<img src=https://i.imgur.com/zWkwsK3.png>
+<img src=https://i.imgur.com/Oxm9K1x.png>
