@@ -58,8 +58,6 @@
 
     <img src=https://i.imgur.com/KUuRrA1.png>
 
-<center>
-
 | **Type** | **Speed** | **PC Rating** |
 |----------|-----------|---------------|
 | **DDR4** | 3200 MHz | PC4-25600 |
@@ -77,8 +75,44 @@
 | **DDR2** | 800 MHz | PC2-6400 |
 | **DDR2** | 667 MHz | PC2-5400 |
 | **DDR** | 500 MHz | PC4000 |
-
-</center>
-
 ## **3) Single-sided và Double-sided DIMMs**
+- Loại **DIMM** có các chíp nhớ nằm trên 1 mặt của **module** gọi là **single-sided DIMM** .
+- Loại **DIMM** có các chíp nhớ nằm trên 2 mặt của **module** gọi là **double-sided DIMM** .
+- Hầu như tất cả các **CPU** của PC và laptop đều dùng `64bit` để đánh địa chỉ bộ nhớ . Một **memory bank** ( khối nhớ ) là vùng bộ nhớ được **CPU** đánh địa chỉ đồng thời với độ rộng `64bit` .
+- Tuy nhiên , một số loại **double-sided DIMM** lại cung cấp nhiều hơn 1 **memory bank** . Các chip nhớ trên loại **DIMM** này được tổ chức thành các nhóm và được bộ điều khiển bộ nhớ đánh địa chỉ lần lượt cho từng nhóm .
+- Các loại **double-sided DIMM** cung cấp 2 **memory bank** `64bit` được gọi là **DIMM dual-ranked** ( dãy kép ) :
 
+    <img src=https://i.imgur.com/D5rM7E7.png>
+
+- Cách nhận biết **single-ranked** và **dual-ranked** :
+
+    <img src=https://i.imgur.com/7CnfOOM.png>
+
+## **4) ECC và Parity**
+- Các loại **DIMM** được sử dụng cho cả server nên phải vô cùng tin cậy , do đó chúng sử dụng công nghệ sửa lỗi gọi là **ECC ( Error-Correcting Code - Mã sửa lỗi )** .
+- Một số loại **module** **DDR** , **DDR2** , **DDR3** , **DDR4** cũng hỗ trợ **ECC** .
+- Một thanh **DIMM** thông thường có số lượng chẵn các chip nhớ , nhưng **DIMM-ECC** lại có số các chip nhớ là số lẻ . Chíp lẻ là chip **ECC** .
+- **ECC** so sánh các bit được ghi vào **module nhớ** với các bit được đọc ra từ **module nhớ** , từ đó phát hiện và sửa lỗi . Nếu xuất hiện lỗi ở `2 bit` trên cùng `1 byte` , **ECC**có thể phát hiện nhưng không thể sửa lỗi .
+- Thông thường , độ rộng đường dẫn dữ liệu của **DIMM** là `64bit` nhưng với **DIMM** hỗ trợ **ECC** thì độ rộng là `72bit` . `8bit` thêm vào được dùng để kiểm tra lỗi .
+- **RAM ECC** đắt hơn nhưng đáng tin cậy hơn **RAM non-ECC** .
+- Nếu muốn lắp **RAM ECC** thì **mainboard** và các **module** phải hỗ trợ nó . Để kiểm tra , có thể xem trong **BIOS** hoặc tài liệu hướng dẫn đi kèm **mainboard** .
+- Không thể sử dụng 1 thanh **RAM ECC** và 1 thanh **RAM non-ECC** trên cùng 1 hệ thống , có thể khiến hệ thống không hoạt động .
+## **5) Buffered DIMM và Registered DIMM**
+- **Buffers** ( bộ đệm ) và **registers** ( thanh ghi ) chứa và khuyếch đại tín hiệu ngay trước khi dữ liệu được ghi vào bộ nhớ .
+- Một số loại **DIMM** cũ sử dụng **buffers** , một số mới sử dụng **registers** hoặc cả hai .
+    - Nếu **DIMM** sử dụng **buffers** thì được gọi là **Buffered DIMM** .
+    - Nếu **DIMM** sử dụng **registers** thì được gọi là **Registered DIMM** .
+    - Nếu **DIMM** không hỗ trợ **buffers** thì gọi là **Unbuffered DIMM** .
+
+        <img src=https://i.imgur.com/XBCWNEU.png>
+
+        <img src=https://i.imgur.com/6kX6Hdo.png>
+
+## **6) CAS Latency và RAS Latency**
+- 2 đặc điểm của bộ nhớ là **CAS Latency** ( CAS - column access strobe ) và **RAS Latency** ( RAS - row access strobe ) . Đây là 2 phương pháp đo thời gian truy cập dữ liệu .
+- Cả 2 phương pháp này đều đề cập đến chu kỳ clock mà bộ nhớ dùng để đọc và ghi 1 cột ( column ) hoặc 1 dòng ( row ) dữ liệu .
+- **CAS Latency** được sử dụng nhiều hơn **RAS Latency** .
+- Loại **CAS Latency** và **RAS Latency**có ký hiệu thấp hơn sẽ tốt hơn loại có ký hiệu cao hơn .<br>**VD :** **CL8** nhanh hơn 1 chút so với **CL9** .
+- Trong các quảng cáo , đôi khi giá trị **CAS Latency** nằm trong 1 dãy số định thời , có dạng `a-b-c-d` . Giá trị `a` cho biết loại **CAS Latency** , Giá trị `b` là **RAS Latency** .
+
+    <img src=https://i.imgur.com/WITfqW5.png>
