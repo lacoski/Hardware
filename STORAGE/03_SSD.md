@@ -128,7 +128,7 @@
 - Các **SSD M.2 SATA** đều có thể cắm vào cổng **M.2** ở Laptop , còn với **mainboard** của máy tính bàn thì loại nào có hổ trợ thì mới sử dụng được .
 - **SSD M.2** có 4 kích cỡ :
 
-    <img src=https://i.imgur.com/J515x4H.png>
+    <img src=https://i.imgur.com/ZgsyNvN.png>
 
 - Khe cắm **SSD M.2** trên **mainboard** :
 
