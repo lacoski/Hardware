@@ -92,9 +92,56 @@
             ```
         - Mà ổ có kích thước `200GB` thì tương đương **DWPD** là `1` . Tương tự , nếu ổ có `3.65PBW` = `3.650TBW` thì mỗi ngày ghi được `2TB` , hay **DWPD** là `10` .
 > Hai con số này dường như có thể quy ra nhau dễ dàng khi biết được dung lượng ổ và thời gian bảo hành.
-## **2) Công nghệ 3D V-NAND**
-- Trong bối cảnh chip nhớ **flash NAND 2D** phẳng đang tiến gần tới nhữn giới hạn vật lý , công nghệ **flash V-NAND 3D** là bước đột phá mới , cho phép cải thiện đáng kể dung lượng cũng như hiệu năng của ổ **SSD** .
+## **6) Công nghệ 3D V-NAND ( Vertical-NAND )**
+- Trong bối cảnh chip nhớ **flash NAND 2D** phẳng đang tiến gần tới những giới hạn vật lý , công nghệ **flash V-NAND 3D** là bước đột phá mới , cho phép cải thiện đáng kể dung lượng cũng như hiệu năng của ổ **SSD** .
 - **3D V-NAND** , như tên gọi của nó , giúp tăng thêm nhiều lớp bóng bán dẫn để lưu dữ liệu . Bằng cách thêm vào nhiều lớp bóng bán dẫn , có thể lên tới `120` hoặc `144` lớp ( hiện tại vì các ổ **SSD** thông thường chỉ có `3-4` lớp bóng bán dẫn ), chúng ta có thể có gia tăng mật độ và dung lượng bộ nhớ lên đáng kể . Bên cạnh đó còn giúp gia tăng khoảng trống giữa các khối bộ nhớ trên mỗi lớp , giúp tránh phải các vấn đề về vật lí và hiệu năng bộ nhớ . Trên mỗi lớp bóng bán dẫn , các khối bộ nhớ cũng có thể sắp xếp theo dạng đơn cấp hoặc đa cấp như trên bộ nhớ  flash, qua đó có thể tăng dung lượng lên mức cực khủng nếu muốn .
-- So với công nghệ **2D NAND Flash** , **3D V-NAND Flash** mang đến 4 ưu điểm dễ dàng nhận ra đó là: dung lượng lưu trữ lớn hơn, độ bên tốt hơn, hiệu năng cao hơn và tiết kiệm điện hơn.
 
+    <p align=center><img src=https://i.imgur.com/Uf8xzvb.png width=60%></p>
+
+- So với công nghệ **2D NAND Flash** , **3D V-NAND Flash** mang đến 4 ưu điểm dễ dàng nhận ra đó là: dung lượng lưu trữ lớn hơn, độ bên tốt hơn, hiệu năng cao hơn và tiết kiệm điện hơn .
+## **7) Các chuẩn SSD hiện nay**
+### **7.1) SSD SATA 3.0**
+- Dòng **SSD** sử dụng giao tiếp **SATA 3.0** ( **Serial Advanced Technology Attachment** ) phổ biến nhất vì giá thành và sự tương thích với các loại **mainboard** khác nhau .
+- Tốc độ giới hạn ở mức `6Gb/s` , có kích thước `2.5 inch` và có thể lắp đặt dễ dàng vào các dòng Laptop .
+
+    <img src=https://i.imgur.com/La8C3rn.png>
+
+- **SSD SATA 3.0** yêu cầu 1 dây **SATA** để truyền dữ liệu và 1 dây cấp nguồn `5V` để ổ hoạt động giống như ổ **HDD** .
+- Trong Laptop , **SSD SATA** chỉ cần kết nối trực tiếp vào **connector**
+
+    <img src=https://i.imgur.com/O7TyzMd.jpg>
+### **7.2) SSD mSATA ( mini-SATA )**
+- Đây là một sản phẩm công nghệ được tích hợp trong dòng chipset Intel và còn được gọi với một tên gọi khác là ***Intel Smart Response*** .
+- Ổ cứng **mSATA** có tốc độ ngang với tốc độ của chuẩn **SSD** kích thước 2.5 .
+- Ổ cứng **mSATA** có hỗ trợ sử dụng một phần không gian lưu trữ để làm bộ nhớ đệm cho hệ điều hành, điều này giúp cho tăng tốc quy trình xử lý bằng cách lưu các dữ liệu mà người dùng truy cập trên máy tính mà không cần phải truy xuất bộ nhớ mỗi khi cần dùng .
+
+    <img src=https://i.imgur.com/ptFIRLG.png>
+
+### **7.3) SSD M.2 SATA ( NGFF )**
+- Thường được biết đến với tên gọi **Next Generation Form Factor ( NGFF )** .
+- Đây cũng là giao tiếp khá thông dụng với các ổ cứng **SSD** . 
+- Mặc dù, **SSD M.2** sử dụng chuẩn kết nối riêng và có thể tận dụng được lợi thế về kích thước nhưng nó vẫn cần đến giao tiếp **SATA** để hoạt động và tức
+- **SSD M.2** có 3 chân tiếp xúc ( **M-key + B-key** )
+
+    <p align=center><img src=https://i.imgur.com/vCrr4zo.png width=40%></p>
+
+- Các **SSD M.2 SATA** đều có thể cắm vào cổng **M.2** ở Laptop , còn với **mainboard** của máy tính bàn thì loại nào có hổ trợ thì mới sử dụng được .
+- **SSD M.2** có 4 kích cỡ :
+
+    <img src=https://i.imgur.com/J515x4H.png>
+
+- Khe cắm **SSD M.2** trên **mainboard** :
+
+    <img src=https://i.imgur.com/2PzCD0Y.jpg>
+
+### **7.4) SSD M.2 NVMe**
+- **NVM Express (NVMe)** – viết tắt của cụm từ ***Non-Volatile Memory Express*** ( bộ nhớ bất biến cao tốc ) , là một **controller** chuẩn hiệu năng cao dành cho các ổ cứng **SSD** có giao tiếp **PCIe** .
+
+    <p align=center><img src=https://i.imgur.com/bCNMipJ.png width=60%></p>
+
+- Có kích cỡ là ổ **SSD M.2 NVMe 2280 ( M-key )** .
+    
+    <p align=center><img src=https://i.imgur.com/sfEEonH.png width=40%></p>
+
+- Tốc độ truy xuất dữ liệu đạt đến `3.500 MB/s` trong khi so với **SSD** sử dụng giao tiếp **SATA 3.0** có tốc độ cao nhất vào khoảng `530 - 550 MB/s` và HDD loại `7.200 rpm` , tốc độ khoảng `140 - 160 MB/s`<br>=>> Hiệu suất **SSD NVMe** cao hơn khoảng `6,3 - 6,5` lần so với **SSD SATA** và cao gấp `22 – 25` lần ổ cứng truyền thống .
 
