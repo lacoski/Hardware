@@ -121,9 +121,9 @@
 - Thường được biết đến với tên gọi **Next Generation Form Factor ( NGFF )** .
 - Đây cũng là giao tiếp khá thông dụng với các ổ cứng **SSD** . 
 - Mặc dù, **SSD M.2** sử dụng chuẩn kết nối riêng và có thể tận dụng được lợi thế về kích thước nhưng nó vẫn cần đến giao tiếp **SATA** để hoạt động và tức
-- **SSD M.2** có 3 chân tiếp xúc ( **M-key + B-key** )
+- **SSD M.2** có 3 chân tiếp xúc ( **B&M-key** )
 
-    <p align=center><img src=https://i.imgur.com/vCrr4zo.png width=40%></p>
+    <p align=center><img src=https://i.imgur.com/SsgGEkl.png width=40%></p>
 
 - Các **SSD M.2 SATA** đều có thể cắm vào cổng **M.2** ở Laptop , còn với **mainboard** của máy tính bàn thì loại nào có hổ trợ thì mới sử dụng được .
 - **SSD M.2** có 4 kích cỡ :
@@ -141,7 +141,7 @@
 
 - Có kích cỡ là ổ **SSD M.2 NVMe 2280 ( M-key )** .
     
-    <p align=center><img src=https://i.imgur.com/sfEEonH.png width=40%></p>
+    <p align=center><img src=https://i.imgur.com/YXzG7ZT.png width=40%></p>
 
 - Tốc độ truy xuất dữ liệu đạt đến `3.500 MB/s` trong khi so với **SSD** sử dụng giao tiếp **SATA 3.0** có tốc độ cao nhất vào khoảng `530 - 550 MB/s` và HDD loại `7.200 rpm` , tốc độ khoảng `140 - 160 MB/s`<br>=>> Hiệu suất **SSD NVMe** cao hơn khoảng `6,3 - 6,5` lần so với **SSD SATA** và cao gấp `22 – 25` lần ổ cứng truyền thống .
 
