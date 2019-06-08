@@ -11,13 +11,104 @@
     - 8<sup>th</sup> Generation : **Coffee Lake** ( 2017 )
     - 9<sup>th</sup> Generation : **Ice Lake** ( 2018 )
 ## **1) Previos Generation**
-### **1.1) Intel<sup>&reg;</sup> Celeron&trade;** <img src=https://i.imgur.com/lbnx3OX.png align=right width=15%>
+### **1.1) Intel<sup>&reg;</sup> Celeron<sup>&reg;</sup>** <img src=https://i.imgur.com/lbnx3OX.png align=right width=15%>
 - Số hiệu bộ xử lý dành cho thương hiệu **Intel<sup>&reg;</sup>Celeron<sup>&reg;</sup>** được thể hiện bằng dãy số gồm `3` số hoặc dãy số gồm `5` ký tự với tiền tố chữ cái và bốn chữ số , tùy theo loại bộ xử lý .
 - Số hiệu cao hơn trong lớp hoặc dòng bộ xử lý thường cho biết có nhiều tính năng hơn, như bộ nhớ đệm, tốc độ xung nhịp , front-side bus hoặc các công nghệ khác của **Intel<sup>&reg;</sup>** . 
 
     <p align=center><img src=https://i.imgur.com/eXq6Prd.png width=70%></p>
 
 - Thông số kỹ thuật :
-    - Tốc độ : `1.6` đến `3.6 GHz`
-    - FSB : `533/667/800 MHz`
-    - Cache : `128 KB` đến `1MB`
+    - Tốc độ : `1.6` đến `3.6GHz`
+    - FSB : `533/667/800MHz`
+    - Cache : `128KB` đến `1MB`
+### **1.2) Intel<sup>&reg;</sup> Pentium<sup>&reg;</sup>** <img src=https://i.imgur.com/RW2z20P.png align=right width=15%>
+- Số hiệu bộ xử lý dành cho thương hiệu Intel® Pentium® có tiền tố chữ cái theo sau bởi dãy gồm chữ số .
+- Tất cả đều là bộ xử lý lõi kép hiệu quả về năng lượng dành cho PC với **TDP** lớn hơn hoặc bằng `65W` .
+- Số hiệu cao hơn trong lớp hoặc dòng bộ xử lý thường cho biết có nhiều tính năng hơn , như bộ nhớ đệm , tốc độ xung nhịp , front-side bus hoặc các công nghệ khác của **Intel<sup>&reg;</sup>** . Bộ xử lý có số hiệu cao hơn cũng có thể có nhiều hơn một tính năng này và ít hơn một tính năng khác .
+
+    <p align=center><img src=https://i.imgur.com/VbS4ri2.png width=70%></p>
+
+- Thông số kỹ thuật :
+    - Tốc độ : Tối đa `3.7GHz`
+    - Cache : Tối đa `4MB`
+    - Dual-core
+### **1.3) Intel<sup>&reg;</sup> Atom&trade;** <img src=https://i.imgur.com/g6OYknM.png align=right width=15%>
+- Số hiệu bộ xử lý dành cho dòng bộ xử lý **Intel<sup>&reg;</sup> Atom&trade;** được phân loại bởi dãy số gồm 3 số .
+- Bộ xử lý **Intel<sup>&reg;</sup> Atom&trade;** dành cho dòng **Netbook** có tiền tố chữ cái là **`N`** .
+- Bộ xử lý **Intel<sup>&reg;</sup> Atom&trade;** với tiền tố chữ cái là **`Z`** cho biết bộ xử lý dành cho Thiết bị Internet di động ( **Mobile Internet Devices - MID** ) .
+
+    <p align=center><img src=https://i.imgur.com/suTIPoj.png width=70%></p>
+
+- Thông số kỹ thuật :
+    - Tốc độ : Tối đa `2.1GHz`
+    - Cache : Tối đa `1MB`
+    - Một số sử dụng Dual-core 
+    - Hỗ trợ RAM :
+        - Single-channel
+        - **DDR2** `667/800MHz`
+        - **DDR3** `800/1066MHz`
+### **1.4) Intel<sup>&reg;</sup> Core&trade;2 Quad** <img src=https://i.imgur.com/SzlM9bj.jpg align=right width=15%>
+- Số hiệu bộ xử lý dành cho dòng bộ xử lý **Intel<sup>&reg;</sup> Core&trade;2 Quad** có tiền tố chữ cái **`Q`** theo sau bởi dãy số gồm bốn chữ số .
+- Bộ xử lý **Intel<sup>&reg;</sup> Core&trade;2 Quad** tiết kiệm điện còn được nhận diện bởi hậu tố **`S`** cho biết bộ xử lý có khả năng tiêu hao nhiệt thấp hơn . 
+
+    <p align=center><img src=https://i.imgur.com/XeTR40k.png width=70%></p>
+
+- Thông số kỹ thuật :
+    - Tốc độ : Tối đa `3.2GHz`
+    - FSB : `533` đến `1600MHz`
+    - Cache : `2MB` đến `12MB`
+    - Quad-core
+### **1.5) Intel<sup>&reg;</sup> Core&trade;2 Duo** <img src=https://i.imgur.com/Lufrq3w.png align=right width=15%>
+- Số hiệu bộ xử lý dành cho thương hiệu dòng bộ xử lý **Intel<sup>&reg;</sup> Core&trade;2 Duo** được phân loại bằng tiền tố chữ cái **`E`** theo sau bởi dãy số có bốn chữ số .
+
+    <p align=center><img src=https://i.imgur.com/rsQlUP9.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`E`** : bộ xử lý dual-core tiết kiệm điện dành cho PC với **TDP** lớn hơn hoặc bằng `55W`
+    - **`L`** : bộ xử lý tiết kiệm điện cao dành cho thiết bị di động với **TDP** `12-19W`
+    - **`P`** : bộ xử lý tiết kiệm điện cao dành cho thiết bị di động với **TDP** `20-29W`
+    - **`Q`** : bộ xử lý hiệu năng cao quad-core cho di động
+    - **`QX`** : bộ xử lý hiệu năng rất cao quad-core dành cho PC hoặc di động
+    - **`S`** : kiểu hình thức dành cho di động với gói 22x22 BGA
+    - **`T`** : bộ xử lý tiết kiệm điện cao dành cho thiết bị di động với **TDP** `30-39W`
+    - **`U`** : bộ xử lý tiết kiệm điện rất cao dành cho thiết bị di động với **TDP** nhỏ hoăn hoặc bằng `11,9W`
+    - **`X`** : bộ xử lý hiệu năng rất cao dual-core dành cho PC hoặc di động
+- Thông số kỹ thuật :
+    - Tốc độ : Tối đa `3.2GHz`
+    - FSB : `533` đến `1600MHz`
+    - Cache : `2MB` đến `12MB`
+    - Dual-core hoặc quad-core
+### **1.6) Intel<sup>&reg;</sup> Core&trade;** <img src=https://i.imgur.com/FmtDOpN.png align=right width=35%>
+- Gồm 3 dòng **Core&trade; i3 , i5 , i7**
+- Số hiệu bộ xử lý dành cho dòng bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ trước có mã nhận diện dạng chữ và số theo sau bởi dãy số có ba chữ số .
+
+    <p align=center><img src=https://i.imgur.com/afjjK44.png width=70%></p>
+
+- Thông số kỹ thuật :
+    - **Core&trade; i3** :
+        - Tốc độ : Tối đa `3.3GHz`
+        - Cache : `4MB`
+        - Dual-core
+        - Hỗ trợ RAM :
+            - Dual-channel
+            - **DDR3** `1066/1333MHz`
+    - **Core&trade; i5** :
+        - Tốc độ : Tối đa `3.3GHz`
+        - Cache : `4MB` hoặc `8MB`
+        - Dual-core hoặc quad-core
+        - Hỗ trợ RAM :
+            - Dual-channel
+            - **DDR3** `1066/1333MHz`
+    - **Core&trade; i7** :
+        - Tốc độ : Tối đa `3.3GHz`
+        - Cache : `8MB` hoặc `12MB`
+        - Quad-core hoặc 6-core
+        - Hỗ trợ RAM :
+            - Dual-channel hoặc Triple-channel
+            - **DDR3** `800/1066/1333MHz`
+    - **Core&trade; i7 Extreme** :
+        - Tốc độ : Tối đa `3.3GHz`
+        - Cache : `8MB` hoặc `12MB`
+        - Hỗ trợ RAM :
+            - Triple-channel
+            - **DDR3** `1066MHz`
