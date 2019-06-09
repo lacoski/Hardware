@@ -121,11 +121,11 @@
     <p align=center><img src=https://i.imgur.com/svbd7wm.png width=70%></p>
 
 - Các hậu tố theo sau :
-    - **`M`** : cho phép ép xung ( **VD :** `i7-2600K` , `i5-2500K` )
+    - **`K`** : cho phép ép xung ( **VD :** `i7-2600K` , `i5-2500K` )
     - **`S`** : tối ưu hóa cho hiệu năng ( **VD :** `i5-2500S` , `i5-2400S` )
     - **`T`** : tối ưu hóa cho công suất ( **VD :** `i5-2500T` , `i5-2390T` )
-    - **`M`** : di động ( **VD :** `i7-2677M` )
-    - **`QM`** : di động quad-core ( **VD :** `i7-2860QM` )
+    - **`M`** : dành cho laptop ( **VD :** `i7-2677M` )
+    - **`QM`** : quad-core , dành cho laptop ( **VD :** `i7-2860QM` )
 - Thông số kỹ thuật :
     - **Pentium<sup>&reg;</sup>** :
         - Tốc độ : tối đa `3GHz`
@@ -154,10 +154,88 @@
         - RAM Support :
             - Dual-channel hoặc Quad-channel
             - **DDR3** `1066/1333/1600MHz`
-    - **Core&trade; i7** : 
+    - **Core&trade; i7 Extreme** : 
         - Speed : Up to `3.9GHz`
         - Cache : `15MB`
         - 6-core
         - RAM Support :
             - Quad-channel
             - **DDR3** `1066/1333/1600MHz`
+## **3) 3<sup>rd</sup> Generation ( Ivy Bridge )** <img src=https://i.imgur.com/uxsXJ0V.jpg align=right width=20%>
+- Gồm 3 dòng **Core&trade; i3 , i5 , i7**
+- **Ivy Bridge** tích hợp sẵn chip đồ họa hỗ trợ **DirectX 11** như **HD 4000** , có khả năng phát video phân giải cao và xử lý các nội dung **3D** .
+- Số hiệu bộ xử lý cho các bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 3 sử dụng một chuỗi chữ và số dựa trên thế hệ và dòng sản phẩm theo thương hiệu và bộ điều chỉnh của nó . Chữ số đầu tiên trong chuỗi bốn chữ số cho biết thế hệ của bộ xử lý , còn ba chữ số tiếp theo là mã **SKU** . Khi có thể áp dụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý .
+
+    <p align=center><img src=https://i.imgur.com/PAcqTVO.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`K`** : cho phép ép xung ( **VD :** `i7-3370K` , `i5-3570K` )
+    - **`S`** : tối ưu hóa hiệu năng ( **VD :** `i7-3770S` , `i5-3550S` )
+    - **`T`** : tối ưu hóa công suất ( **VD :** `i7-3770T` , `i5-3570T` )
+    - **`M`** : dùng cho laptop ( **VD :** `i7-3520M` )
+    - **`QM`** : quad-core , dùng cho laptop ( **VD :** `i7-3820QM` )
+    - **`U`** : tiêu thụ điện năng thấp , dùng cho laptop ( **VD :** `i7-3667U` )
+    - **`Y`** : tiêu thụ điện năng cực thấp , dùng cho laptop ( **VD :** `i7-3689Y` )
+- Thông số kỹ thuật :
+    - **Core&trade; i3** :
+        - Speed : Up to `3.5GHz`
+        - Cache : `3MB`
+        - Dual-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600MHz`
+    - **Core&trade; i5** :
+        - Speed : Up to `3.8GHz`
+        - Cache : `6MB`
+        - Quad-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600MHz`
+    - **Core&trade; i7** :
+        - Speed : Up to `3.9GHz`
+        - Cache : `8MB`
+        - Quad-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600MHz`
+## **4) 4<sup>th</sup> Generation ( Haswell )**
+- Gồm 3 dòng **Core&trade; i3 , i5 , i7**
+- **Haswell** tiết kiệm điện năng gấp 20 lần so với **Sandy Bridge** ở chế độ chờ .
+- Hiệu năng đồ họa cũng tăng đáng kể : bên cạnh việc nâng cấp từ chip đồ họa **Intel HD 4000** , Intel còn bổ sung thêm dòng chip đồ họa mạnh mẽ **Iris/ Iris Pro** dành cho các chip cao cấp .
+- Số hiệu bộ xử lý cho các bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 4 sử dụng một chuỗi chữ và số dựa trên thế hệ và dòng sản phẩm theo thương hiệu và bộ điều chỉnh của nó . Chữ số đầu tiên trong chuỗi bốn chữ số cho biết thế hệ của bộ xử lý , còn ba chữ số tiếp theo là mã **SKU** . Khi có thể áp dụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý .
+
+    <p align=center><img src=https://i.imgur.com/W4kMmBL.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`K`** : cho phép ép xung ( **VD :** `i7-4770K` )
+    - **`R`** : CPU dựa trên gói **BGA1364**(laptop) với đồ họa hiệu năng cao ( **VD :** `i7-4770R` )
+    - **`S`** : tối ưu hóa hiệu năng ( **VD :** `i7-4770S` )
+    - **`T`** : tối ưu hóa công suất ( **VD :** `i7-4770T` )
+    - **`HQ`** : đồ họa hiệu năng cao , dùng cho laptop ( **VD :** `i7-4700HQ` )
+    - **`M`** : dùng cho laptop ( **VD :** `i7-4600M` , `i5-4300M` )
+    - **`MQ`** : quad-core , dùng cho laptop ( **VD :** `i7-4702MQ` )
+    - **`MX`** : phiên bản siêu di động , thường dùng cho tablet ( **VD :** `i7-4940MX` )
+    - **`U`** : tiêu thụ điện năng thấp ( **VD :** `i7-4550U` )
+    - **`Y`** : tiêu thụ điện năng cực thấp ( **VD :** `i7-4610Y` )
+- Thông số kỹ thuật :
+    - **Core&trade; i3** :
+        - Speed : Up to `3.8GHz`
+        - Cache : `3->4MB`
+        - Dual-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600MHz`
+    - **Core&trade; i5** :
+        - Speed : Up to `3.6GHz`
+        - Cache : `4->6MB`
+        - Dual-core hoặc Quad-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600MHz`
+    - **Core&trade; i7** :
+        - Speed : Up to `4.4GHz`
+        - Cache : `8MB`
+        - Quad-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600MHz`
