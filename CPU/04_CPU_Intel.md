@@ -80,6 +80,7 @@
     - Dual-core hoặc quad-core
 ### **1.6) Intel<sup>&reg;</sup> Core&trade;** <img src=https://i.imgur.com/FmtDOpN.png align=right width=35%>
 - Gồm 3 dòng **Core&trade; i3 , i5 , i7**
+- **Intel** lần đầu tiên đã tích hợp công nghệ **Turbo Boost** cùng với **Hyper Threading** ( công nghệ siêu phân luồng ) trên cùng một con chip giúp tăng hiệu năng đáng kể so với các thế hệ chip xử lý trước .
 - Số hiệu bộ xử lý dành cho dòng bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ trước có mã nhận diện dạng chữ và số theo sau bởi dãy số có ba chữ số .
 
     <p align=center><img src=https://i.imgur.com/afjjK44.png width=70%></p>
@@ -112,3 +113,51 @@
         - Hỗ trợ RAM :
             - Triple-channel
             - **DDR3** `1066MHz`
+## **2) 2<sup>nd</sup> Generation ( Sandy Bridge )** <img src=https://i.imgur.com/Sr9BN5Z.jpg align=right width=20%>
+- Gồm 4 dòng **Pentium<sup>&reg;</sup>** , **Core&trade; i3 , i5 , i7**
+- Tính năng **Turbo Boost** được nâng cấp với phiên bản `2.0` .
+- Số hiệu bộ xử lý cho dòng bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 2 có mã nhận diện dạng chữ và số theo sau bởi một chuỗi gồm bốn chữ số và có thể có một hậu tố chữ cái , tùy theo bộ xử lý .
+
+    <p align=center><img src=https://i.imgur.com/svbd7wm.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`M`** : cho phép ép xung ( **VD :** `i7-2600K` , `i5-2500K` )
+    - **`S`** : tối ưu hóa cho hiệu năng ( **VD :** `i5-2500S` , `i5-2400S` )
+    - **`T`** : tối ưu hóa cho công suất ( **VD :** `i5-2500T` , `i5-2390T` )
+    - **`M`** : di động ( **VD :** `i7-2677M` )
+    - **`QM`** : di động quad-core ( **VD :** `i7-2860QM` )
+- Thông số kỹ thuật :
+    - **Pentium<sup>&reg;</sup>** :
+        - Tốc độ : tối đa `3GHz`
+        - Cache : `3MB`
+        - RAM support :
+            - Dual-channel
+            - **DDR3** `1066/1333MHz`
+    - **Core&trade; i3** :
+        - Speed : Up to `3.4GHz`
+        - Cache : `3MB`
+        - Dual-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1066/1333MHz`
+    - **Core&trade; i5** : 
+        - Speed : Up to `3.8GHz`
+        - Cache : `3->6MB`
+        - Dual-core hoặc Quad-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1066/1333MHz`
+    - **Core&trade; i7** : 
+        - Speed : Up to `3.9GHz`
+        - Cache : `8->12MB`
+        - Quad-core hoặc 6-core
+        - RAM Support :
+            - Dual-channel hoặc Quad-channel
+            - **DDR3** `1066/1333/1600MHz`
+    - **Core&trade; i7** : 
+        - Speed : Up to `3.9GHz`
+        - Cache : `15MB`
+        - 6-core
+        - RAM Support :
+            - Quad-channel
+            - **DDR3** `1066/1333/1600MHz`
