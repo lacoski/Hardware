@@ -239,3 +239,80 @@
         - RAM Support :
             - Dual-channel
             - **DDR3** `1333/1600MHz`
+## **5) 5<sup>th</sup> Generation ( Broadwell )**
+- Gồm 3 dòng **Core&trade; i3 , i5 , i7 , M**
+- **Broadwell** hoạt động hiệu quả hơn haswell 30%, có nghĩa nó tiêu thụ điện ít hơn 30% nhưng mang đến hiệu năng cao hơn khi ở cùng một tốc độ xung nhịp
+- Số hiệu bộ xử lý cho các bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 5 sử dụng một chuỗi chữ và số dựa trên thế hệ và dòng sản phẩm theo thương hiệu và bộ điều chỉnh của nó . Chữ số đầu tiên trong chuỗi bốn chữ số cho biết thế hệ của bộ xử lý , còn ba chữ số tiếp theo là mã **SKU** . Khi có thể áp dụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý .
+- Số hiệu bộ xử lý của bộ xử lý **Intel<sup>&reg;</sup> Core&trade; M** sử dụng một chuỗi chữ và số theo sau bộ điều chỉnh . Khi có thể áp dụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý .
+
+    <p align=center><img src=https://i.imgur.com/NcOnC0W.png width=70%></p>
+    <p align=center><img src=https://i.imgur.com/ZZeWf4X.png width=70%></p>
+- Các hậu tố theo sau :
+    - **`C`** : dựa trên socket  **LGA1150** với đồ họa hiệu năng cao , ép xung được ( **VD :** `i7-5775C` , `i5-5675C` )
+    - **`R`** : dựa trên socket **BGA1364** ( laptop ) với đồ họa hiệu năng cao ( **VD :** `i7-5775R` , `i5-5675R` , `i5-5575R` )
+    - **`H`** : đồ họa hiệu năng cao , dùng cho laptop ( **VD :** `i5-5330H` )
+    - **`HQ`** : quad-core , đồ họa hiệu năng cao , dùng cho laptop ( **VD :** `i7-5950HQ` , `i7-5850HQ` , `i7-5750HQ` , `i7-5700HQ` )
+    - **`U`** : tiêu thụ điện năng thấp , dùng cho laptop ( **VD :** `i7-5650U` )
+    - **`Y`** ( **Core&trade; M** ) : tiêu thụ điện năng cực thấp , dùng cho laptop ( **VD :** `m-5Y70` )
+- Thông số kỹ thuật :
+    - **Core&trade; i5** :
+        - Speed : Up to `3.6GHz`
+        - Cache : `4MB`
+        - Quad-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600/1866MHz`
+    - **Core&trade; i7** :
+        - Speed : Up to `3.8GHz`
+        - Cache : `6MB`
+        - Quad-core
+        - RAM Support :
+            - Dual-channel
+            - **DDR3** `1333/1600/1866MHz`
+## **6) 6<sup>th</sup> Generation ( Skylake )**
+- Số hiệu bộ xử lý cho bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 6 sử dụng một sắp xếp chữ và số dựa trên thế hệ và dòng sản phẩm theo thương hiệu và bộ điều chỉnh của nó . Chữ số đầu tiên trong chuỗi bốn chữ số cho biết thế hệ của bộ xử lý , còn ba chữ số tiếp theo là mã **SKU** . Khi có thể áp dụng, hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý .
+
+    <p align=center><img src=https://i.imgur.com/xkiILXP.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`K`** : cho phép ép xung ( **VD :** `i7-6700K` , `i5-6600K` )
+    - **`T`** : tối ưu hóa công suất (**VD :** `i7-6700T` , `i5-6600T` , `i3-6300T` )
+    - **`H`** : đồ họa hiệu năng cao , dùng cho laptop ( **VD :** `i3-6100H` )
+    - **`HK`** : đồ họa hiệu năng cao , cho phép ép xung , dùng cho laptop ( **VD :** `i7-6820HK` )
+    - **`HQ`** : quad-core , đồ họa hiệu năng cao , dùng cho laptop ( **VD :** `i7-6920HQ` , `i7-6700HQ` )
+    - **`U`** : tiêu thụ điện năng thấp , dùng cho laptop ( **VD :** `i7-6600U` , `i5-6300U` , `i3-6100U` )
+## **7) 7<sup>th</sup> Generation ( Kaby Lake )**
+- Số hiệu bộ xử lý cho các bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 7 sử dụng một chuỗi chữ và số dựa trên thế hệ và dòng sản phẩm theo nhãn hiệu và bộ điều chỉnh của nó . Chữ số đầu tiên trong chuỗi bốn chữ số cho biết thế hệ của bộ xử lý , còn ba chữ số tiếp theo là mã **SKU** . Khi có thể áp dụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý .
+
+    <p align=center><img src=https://i.imgur.com/hHKZjdi.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`H`** : đồ họa hiệu năng cao , dùng cho laptop ( **VD :** `i3-7100H` )
+    - **`HK`** : đồ  họa hiệu năng cao , cho phép ép xung , dùng cho laptop ( **VD :** `i7-7820HK` )
+    - **`HQ`** : quad-core , đồ họa hiệu năng cao , dùng cho laptop ( **VD :** `i7-7500U` )
+    - **`U`** : tiêu thụ điện năng thấp , dùng cho laptop ( **VD :** `i7-7500U` )
+    - **`Y`** : tiêu thụ điện năng cực thấp , dùng cho laptop ( **VD :** `i7-7Y75` )
+## **8) 8<sup>th</sup> Generation ( Coffee Lake )**
+- Số hiệu bộ xử lý cho bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 8 sử dụng một sắp xếp chữ và số dựa trên thế hệ và dòng sản phẩm theo thương hiệu và bộ điều chỉnh của nó . Chữ số đầu tiên trong chuỗi bốn chữ số cho biết thế hệ của bộ xử lý , còn ba chữ số tiếp theo là mã **SKU** . Khi có thể áp dụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý . Dòng bộ xử lý chuỗi **Intel<sup>&reg;</sup> Core&trade;X** tuân theo một hệ thống đánh số khác do sự khác nhau trong bộ tính năng của chúng .
+
+    <p align=center><img src=https://i.imgur.com/CyD5k6L.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`K`** : cho phép ép xung ( **VD :** `i7-8700K` )
+    - **`G`** : bao gồm card đồ họa rời trong bao bì , dùng cho laptop ( **VD :** `i7-8705G` )
+    - **`U`** : tiêu thụ điện năng thấp , dành cho laptop ( **VD :** `i7-8650U` )
+## **9) 9<sup>th</sup> Generation ( Ice Lake )**
+- Số hiệu bộ xử lý cho bộ xử lý **Intel<sup>&reg;</sup> Core&trade;** thế hệ thứ 9 sử dụng một sắp xếp chữ và số dựa trên thế hệ và dòng sản phẩm theo thương hiệu và bộ điều chỉnh của nó . Chữ số đầu tiên trong chuỗi bốn chữ số cho biết thế hệ của bộ xử lý, còn ba chữ số tiếp theo là mã **SKU** . Khi có thể áp dụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý . Dòng bộ xử lý chuỗi **Intel<sup>&reg;</sup> Core&trade; X** tuân theo một hệ thống đánh số khác do sự khác nhau trong bộ tính năng của chúng .
+
+    <p align=center><img src=https://i.imgur.com/L44ZOPy.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`K`** : cho phép ép xung ( **VD :** `i9-9900K` )
+    - **`F`** : bắt buộc có đồ họa rời ( **VD :** `i9-9900KF` )
+## **10) **Intel<sup>&reg;</sup> Xeon<sup>&reg;</sup>** E3-1500M v5 và v6**
+- Hệ thống đánh số bộ xử lý **Intel<sup>&reg;</sup> Xeon<sup>&reg;</sup>** mới nhất là cách trình bày chữ cái số của dòng sản phẩm, họ sản phẩm và phiên bản . Khi có thể áp dSụng , hậu tố chữ cái sẽ xuất hiện ở cuối tên bộ xử lý đại diện cho dòng bộ xử lý . Số hiệu phiên bản sẽ không được sử dụng trong thế hệ bộ xử lý đầu tiên .
+
+    <p align=center><img src=https://i.imgur.com/Hf3d3Y5.png width=70%></p>
+
+- Các hậu tố theo sau :
+    - **`M`** : dùng cho laptop ( **VD :**  Xeon<sup>&reg;</sup> `E3-1535M v5` , `E3-1505M v5` )

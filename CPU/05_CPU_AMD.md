@@ -1,0 +1,85 @@
+# CPU AMD
+- **CPU** sản xuất bởi **Advanced Micro Devices, Inc.** ( hay **AMD** ) rất phổ biến trong lĩnh vực game và giải trí .
+- **CPU AMD** dùng socket khác với **CPU Intel** nên **mainboard** phải được thiết kế dành cho **AMD** .
+- Nhiều nhà sản xuất đã cho phép tích hợp 2 dòng **CPU** của **Intel** và **AMD** lên sản phẩm của họ - có 2 **socket** - 1 cho **CPU Intel** và 1 cho **CPU AMD** .
+- Họ **CPU AMD** hiện nay gồm có : 
+    - Cho PC : **Ryzen** , **FX** , **Phenom** , **Athlon** , **Sempron** , **A Series** , **E Series**
+    - Cho Laptop : **Athlon** , **Turion** , **V Series** , **Sempron**
+## **1) Sempron** <img src=https://i.imgur.com/u1IdNfh.png align=right width=20%>
+- Thông số kỹ thuật :
+    - Speed : Up to `2.3GHz`
+    - Single-core
+    - Socket **AM2**
+## **2) Athlon** <img src=https://i.imgur.com/Bra2sgz.png align=right width=20%>
+- Thông số kỹ thuật :
+    - **Athlon**
+        - Speed : Up to `2.4GHz`
+        - Single-core
+        - Socket **AM2**
+    - **Athlon X2**
+        - Speed : Up to `2.3GHz`
+        - Dual-core
+        - Socket **AM3**
+    - **Athlon II X2**
+        - Speed : Up to `3GHz`
+        - Dual-core
+        - Socket **AM3**
+    - **Athlon II X3**
+        - Speed : Up to `3.4GHz`
+        - Triple-core
+        - Socket **AM3**
+    - **Athlon X4**
+        - Speed : Up to `3.2GHz`
+        - Quad-core
+        - Socket **FM2**
+    - **Athlon II X4**
+        - Speed : Up to `2.3GHz`
+        - Quad-core
+        - Socket **AM3**
+## **3) Phenom** <img src=https://i.imgur.com/bC851sD.png align=right width=20%>
+- Thông số kỹ thuật :
+    - **Phenom X3**
+        - Speed : Up to `2.4GHz`
+        - Triple-core
+        - Socket **AM2+**
+    - **Phenom X4**
+        - Speed : Up to `2.6GHz`
+        - Quad-core
+        - Socket **AM2+**
+    - **Phenom II X2**
+        - Speed : Up to `3.1GHz`
+        - Dual-core
+        - Socket **AM3**
+    - **Phenom II X3**
+        - Speed : Up to `2.5GHz`
+        - Triple-core
+        - Socket **AM3**
+    - **Phenom II X4**
+        - Speed : Up to `3.2GHz`
+        - Quad-core
+        - Socket **AM3**
+    - **Phenom II X6 Black**
+        - Speed : Up to `3.2GHz`
+        - Six-core
+        - Socket **AM3**
+    - **Phenom II X6**
+        - Speed : Up to `3GHz`
+        - Six-core
+        - Socket **AM3**
+## **4) FX Black Edition** <img src=https://i.imgur.com/EyZLAhG.png align=right width=25%>
+- Thông số kỹ thuật :
+    - **FX 4-Core Black Edition**
+        - Speed : Up to `3.6GHz`
+        - Quad-core
+        - Socket **AM3+**
+    - **FX 6-Core Black Edition**
+        - Speed : Up to `3.3GHz`
+        - Six-core
+        - Socket **AM3+**
+    - **FX 8-Core Black Edition**
+        - Speed : Up to `3.6GHz`
+        - Eight-core
+        - Socket **AM3+**    
+## **5) Ryzen** <img src=https://i.imgur.com/KzMBUu7.png align=right width=25%>
+### **5.1) Ryzen Threadripper**
+### **5.2) Ryzen phổ thông**
