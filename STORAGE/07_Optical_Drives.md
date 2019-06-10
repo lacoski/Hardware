@@ -39,7 +39,7 @@ and **Blu-ray Disc drives ( BD )** sử dụng **UDF** file system mới nhất 
 | **DVD-RW disc or drive** | ***DVD rewritable*** . Một **DVD-RW disc** có thể xóa được , ghi được và là loại đĩa ghi được nhiều lần . |
 | **DVD-RW DL disc or drive** | ***DVD rewritable , dual layers*** . Một **DVD-RW DL** gấp đôi dung lượng lưu trữ lên đến `8.5GB` |
 | **DVD+R disc or drive** | ***DVD recordable*** . Giống nhưng nhanh hơn **DVD-R** . Đĩa có thể  chứa `4,7GB` dữ liệu |
-| **DVD+R DL disk or drive** | ***DVD recorable , dual layers*** . Gấp đôi dung lượng lưu trữ lên `8.5GB` trên mỗi mặt đĩa |
+| **DVD+R DL disk or drive** | ***DVD recordable , dual layers*** . Gấp đôi dung lượng lưu trữ lên `8.5GB` trên mỗi mặt đĩa |
 | **DVD+RW disc or drive** | ***DVD rewritable*** . Nhanh hơn **DVD-RW** |
 | **DVD-RAM disc or drive** | ***DVD Random Access Memory*** . Có thể ghi được và xóa được . Có thể xóa và ghi 1 phần chính xác nào đó của **DVD-RAM** mà không làm ảnh hưởng đến các phần còn lại . Cho phép ghi lại tới `100.000` lần , trong khi của **DVD-RW** và **DVD+RW** là khoảng `1000` lần . **DVD-RAM** thường được sử dụng trong các máy quay phim hoặc đầu thu kĩ thuật số . |
 | **BD-ROM drive** | ***BD read-only memory*** . Một **Bluray BD-ROM drive** có thể đọc được **DVDs** và 1 vài loại có thể đọc được **CDs** |
