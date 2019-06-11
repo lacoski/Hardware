@@ -56,13 +56,16 @@
 ## **7) Memory Support ( RAM )**
 - Những loại **module DRAM** có thể sử dụng trên **mainboard** bao gồm cả **DDR** , **DDR2** , **DDR3** , **DDR4** .
 - Bên cạnh loại **RAM** , **CPU** có thể hỗ trợ chính xác lượng **RAM** , tốc độ , số channel .
-## **8) Support Virtualization**
+## **8) Thermal Design Power ( TDP )**
+- Công suất thoát nhiệt ( **TDP** )  là lượng nhiệt tối đa bởi **CPU** mà hệ thống làm mát cần giải tỏa .chíp xử lý toả ra mà hệ thống mà hệ thống làm mát cần giải toả .
+- Thông thường , đây chính là mức tiêu thụ điện của **CPU** .<br>**VD :** **CPU Intel<sup>&reg;</sup> Core&trade; i7-4800MQ** có **TDP** là `47W` nhưng không đồng nghĩa với việc **CPU** này luôn tiêu thụ với mức điện `47W` mà còn tuỳ thuộc và tác vụ nặng nhẹ mà máy phải xử lý . 
+## **9) Support Virtualization**
 - Là tính năng giúp một máy tính có thể tạo ra và quản lý nhiều máy tính ảo khác .
 - Hầu hết các **CPU** hiện nay đều hỗ trợ ảo hóa , và tính năng này phải được bật trong **BIOS/UEFI** .
 
     <img src=https://i.imgur.com/3WGwuab.jpg>
 
-## **9) Integrated graphics**
+## **10) Integrated graphics**
 - Một **CPU** có thể tích hợp **GPU** trong đó .
 - **GPU - graphics processing unit** là vi xử lý làm việc với dữ liệu đồ họa để xuất ra hình ảnh trên màn hình .
 - **GPU** có thể ở trên **card đồ họa** , có thể trên **mainboard** , hoặc có thể tích hợp trong khối **CPU** . Khi ở bên trong **CPU** , nó gọi là **integrated graphics** ( card đồ họa tích hợp ) .
