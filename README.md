@@ -20,14 +20,14 @@
 **[4.1) First Look](https://github.com/QuocCuong97/Hardware/blob/master/STORAGE/01_Hard_disk.md)**<br>
 **[4.2) HDD](https://github.com/QuocCuong97/Hardware/blob/master/STORAGE/02_HDD.md)**<br>
 **[4.3) SSD](https://github.com/QuocCuong97/Hardware/blob/master/STORAGE/03_SSD.md)**<br>
-**[4.4) RAID](**<br>
-**4.5) Optical Drives**<br>
-**4.6) USB**<br>
-**4.7) SD Card**
-### **5) GPU**
-**5.1) First Look**<br>
-**5.2) NVIDIA Graphic cards**<br>
-**5.3) AMD Graphic cards**<br>
-### **6) PSU**
-### **7) Case**
-### **8) PC Monitor**
+**[4.4) RAID](https://github.com/QuocCuong97/Hardware/blob/master/STORAGE/04_RAID.md)**<br>
+**[4.5) Optical Drives](https://github.com/QuocCuong97/Hardware/blob/master/STORAGE/05_Optical_Drives.md)**<br>
+**[4.6) USB](https://github.com/QuocCuong97/Hardware/blob/master/STORAGE/06_USB.md)**<br>
+**[4.7) SD Card](https://github.com/QuocCuong97/Hardware/blob/master/STORAGE/07_SD.md)**
+### **[5) GPU](https://github.com/QuocCuong97/Hardware/blob/master/GPU/01_GPU.md)**
+**[5.1) First Look](https://github.com/QuocCuong97/Hardware/blob/master/GPU/01_GPU.md)**<br>
+**[5.2) NVIDIA Graphic cards](https://github.com/QuocCuong97/Hardware/blob/master/GPU/02_NVIDIA.md)**<br>
+**[5.3) AMD Graphic cards](https://github.com/QuocCuong97/Hardware/blob/master/GPU/03_AMD.md)**<br>
+### **[6) PSU](https://github.com/QuocCuong97/Hardware/blob/master/PSU/01_PSU.md)**
+### **[7) Case](https://github.com/QuocCuong97/Hardware/blob/master/CASE/Case.md)**
+### **[8) PC Monitor](https://github.com/QuocCuong97/Hardware/blob/master/MONITOR/%C4%91sss.md)**
