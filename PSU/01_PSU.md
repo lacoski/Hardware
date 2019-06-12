@@ -24,11 +24,11 @@
 
     | **Connector** | **Điện áp** | **Mô tả** |
     |---------------|-------------|-----------|
-    | <img src=https://i.imgur.com/C5NEaoP.png width=50%> | +3.3V , &plusmn;5V , &plusmn;12V | **20-pin P1 connector** . Là dây nguồn tổng cho **mainboard** sử dụng cho các chuẩn **ATX** cũ |
-    | <img src=https://i.imgur.com/SBRFo33.png width=50%> | +3.3V , &plusmn;5V , &plusmn;12V | **24-pin P1 connector** ( hay cũng gọi là **20+4 pin connector** ). Là dây nguồn tổng cho **mainboard** sử dụng cho các chuẩn **ATX** mới |
-    | <img src=https://i.imgur.com/Kzej2Qh.jpg width=50%> | | **4-pin 12-V connector** . Được sử dụng để cấp nguồn 12V thứ cấp cho **CPU** |
-    | <img src=https://i.imgur.com/IezlXN0.jpg width=50%> | | **8-pin 12-V connector** . Là dây cắm phụ 12V để cấp nguồn thêm cho **CPU** , cung cấp công suất lớn hơn so với các loại dây 4-pin cũ |
-    | <img src=https://i.imgur.com/AuyXMDu.png width=50%> | | **4-pin Molex connector**
+    | <img src=https://i.imgur.com/C5NEaoP.png width=30%> | +3.3V , &plusmn;5V , &plusmn;12V | **20-pin P1 connector** . Là dây nguồn tổng cho **mainboard** sử dụng cho các chuẩn **ATX** cũ |
+    | <img src=https://i.imgur.com/SBRFo33.png width=30%> | +3.3V , &plusmn;5V , &plusmn;12V | **24-pin P1 connector** ( hay cũng gọi là **20+4 pin connector** ). Là dây nguồn tổng cho **mainboard** sử dụng cho các chuẩn **ATX** mới |
+    | <img src=https://i.imgur.com/Kzej2Qh.jpg width=30%> | | **4-pin 12-V connector** . Được sử dụng để cấp nguồn 12V thứ cấp cho **CPU** |
+    | <img src=https://i.imgur.com/IezlXN0.jpg width=30%> | | **8-pin 12-V connector** . Là dây cắm phụ 12V để cấp nguồn thêm cho **CPU** , cung cấp công suất lớn hơn so với các loại dây 4-pin cũ |
+    | <img src=https://i.imgur.com/AuyXMDu.png width=30%> | | **4-pin Molex connector**
 - Nếu **PSU** không có **connector** cần thiết , có thể sử dụng **converter** để chuyển đổi sang dạng **connector** khác :
 
     <p align=center><img src=https://i.imgur.com/I7VAfTz.png width=50%></p>
