@@ -83,7 +83,7 @@
 - **Other features** - các tính năng khác ( nếu có ) :
     - **Antiglare surface** : bề mặt chống lóa
     - **Tilt-screen** : màn hình có góc nghiêng
-    - **Microphone , speakers , USB input** : có cổng kết nối mic , loa , USB qua màn hình .
+    - **Microphone , speakers , USB input** : có cổng kết nối mic , loa , USB qua màn hình 
     - **Adjustable stands** : có chân đứng đi kèm
     - **Touch screen** : màn hình có chức năng cảm ứng , có thể sử dụng tay hoặc bút **stylus** để điều khiển 
 ## **3) Các loại connector**
