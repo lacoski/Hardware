@@ -85,7 +85,7 @@
     - **Tilt-screen** : màn hình có góc nghiêng
     - **Microphone , speakers , USB input** : có cổng kết nối mic , loa , USB qua màn hình .
     - **Adjustable stands** : có chân đứng đi kèm
-    - **Touch screen** : màn hình có chức năng cảm ứng , có thể sử dụng tay hoặc bút **stylus** để điều khiển .
+    - **Touch screen** : màn hình có chức năng cảm ứng , có thể sử dụng tay hoặc bút **stylus** để điều khiển 
 ## **3) Các loại connector**
 ### **3.1) VGA**
 - Cổng **VGA `15-pin`** là chuẩn connector **analog** và truyền 3 tín hiệu là **red** , **green** , **blue** ( **RGB** ) .
