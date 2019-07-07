@@ -88,7 +88,7 @@
     - **Touch screen** : màn hình có chức năng cảm ứng , có thể sử dụng tay hoặc bút **stylus** để điều khiển 
 ## **3) Các loại connector**
 ### **3.1) VGA**
-- Cổng **VGA `15-pin`** là chuẩn connector **analog** và truyền 3 tín hiệu là **red** , **green** , **blue** ( **RGB** ) .
+- Chuẩn **VGA `15-pin`** là chuẩn connector **analog** và truyền 3 tín hiệu là **red** , **green** , **blue** ( **RGB** ) .
 - Cổng **VGA** cũng được gọi là cổng **DB-15** .
 
     <img src=https://i.imgur.com/fy6aEkz.png>
